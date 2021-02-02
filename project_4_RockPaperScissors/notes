@@ -1,0 +1,6 @@
+r- rock, p-paper , s-scissors
+
+The user and computer plays fun rock paper scissors game.
+The computer uses random.choice(iterable) and user inputs a 
+string. Based on the conditions: r<p, p<s, r>s, user or 
+computer wins
